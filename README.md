@@ -10,6 +10,8 @@
 - [📌 Objetivo del Proyecto](#-objetivo-del-proyecto)
 - [⚙️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
 - [📺 Recursos Utilizados](#-recursos-utilizados)
+- [📚 Conceptos Aplicados](#-conceptos-aplicados)
+
 - [🏗️ Estructura del Proyecto](#️-estructura-del-proyecto)
 - [🔎 Lógica del Patrón Observer](#-lógica-del-patrón-observer)
   - [🔁 Interfaces](#-interfaces)
@@ -18,7 +20,6 @@
   - [🌐 Evento personalizado con Spring Boot](#-evento-personalizado-de-cambio-de-dólar-con-spring-boot)
   - [🌐 Observadores con Spring Events](#-observadores-con-spring-events)
 - [🚀 Ejecución y Simulación](#-ejecución-y-simulación)
-- [📚 Conceptos Aplicados](#-conceptos-aplicados)
 - [🧑‍💻 Autor](#-autor)
 
 ---
@@ -52,6 +53,15 @@ Videos utilizados como base de investigación y comprensión del patrón:
 2. [Observer Pattern aplicado con eventos en Spring](https://www.youtube.com/watch?v=okNAuUkohOU&list=WL&index=3)
 3. [Aplicación Spring con eventos personalizados](https://www.youtube.com/watch?v=-VedAXrEc3Q&list=WL&index=4)
 
+
+---
+
+## 📚 Conceptos aplicados
+
+- ✅ Principios SOLID (especialmente OCP y DIP).
+- ✅ Bajo acoplamiento entre componentes.
+- ✅ Implementación mixta de Observer clásico y Event-Driven de Spring.
+- ✅ Desacoplamiento entre emisores y receptores de eventos.
 
 ---
 
@@ -369,14 +379,6 @@ Observer desuscrito. Total: 1
 
 ---
 
-## 📚 Conceptos aplicados
-
-- ✅ Principios SOLID (especialmente OCP y DIP).
-- ✅ Bajo acoplamiento entre componentes.
-- ✅ Implementación mixta de Observer clásico y Event-Driven de Spring.
-- ✅ Desacoplamiento entre emisores y receptores de eventos.
-
----
 
 
 ## 🧑‍💻 Autor
