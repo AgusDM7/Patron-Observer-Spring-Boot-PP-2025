@@ -58,6 +58,9 @@ Videos utilizados como base de investigación y comprensión del patrón:
 
 ## 📚 Conceptos aplicados
 
+El patrón Observer es un patrón de diseño comportamental que permite definir una relación de dependencia uno-a-muchos entre objetos.
+Cuando un objeto (llamado Subject o Sujeto) cambia su estado, notifica automáticamente a todos los objetos dependientes (llamados Observers o Observadores), sin acoplarse directamente a ellos.
+
 - ✅ Principios SOLID (especialmente OCP y DIP).
 - ✅ Bajo acoplamiento entre componentes.
 - ✅ Implementación mixta de Observer clásico y Event-Driven de Spring.
