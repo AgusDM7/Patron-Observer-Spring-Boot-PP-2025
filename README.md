@@ -11,7 +11,7 @@
 - [⚙️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
 - [📺 Recursos Utilizados](#-recursos-utilizados)
 - [📚 Conceptos Aplicados](#-conceptos-aplicados)
-- [🧑‍💻 Posible consigan sujerida del ejercicio](#️-posible-consigna-sujerida-del-ejercicio)
+- [🧑‍💻 Posible consigna sujerida del ejercicio](#posible-consigna-sujerida-del-ejercicio)
 - [🏗️ Estructura del Proyecto](#️-estructura-del-proyecto)
 - [🔎 Lógica del Patrón Observer](#-lógica-del-patrón-observer)
   - [🔁 Interfaces](#-interfaces)
@@ -68,7 +68,7 @@ Cuando un objeto (llamado Subject o Sujeto) cambia su estado, notifica automáti
 
 ---
 
-## 🧑‍💻 Posible consigna sujerida del ejercicio.
+## Posible consigna sujerida del ejercicio
 > Realizar una aplicación utilizando el framework **Spring Boot**, donde se implemente el **Patrón Observer**, permitiendo simular diferentes entidades (como bancos, casas de cambio e inversores) que reaccionen ante cambios en el valor del dólar. El sistema debe incluir al menos una implementación manual del patrón y otra basada en eventos con `@EventListener`. La simulación deberá ejecutarse desde el método `main()` con comportamientos diferenciados por tipo de observador.
 
 ---
